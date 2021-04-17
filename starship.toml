@@ -1,0 +1,4 @@
+[custom.lunar]
+description = "Display moon phase"
+command = "lunar"
+when = 'true'
