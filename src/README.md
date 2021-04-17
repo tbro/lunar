@@ -16,3 +16,7 @@ Of course you will the binary in your `$PATH` for that to work. Cargo makes that
     cargo install --path .
 
 That assumes you have cloned and `cd`ed into this repo. It also assumes you have configured you path to include binaries installed through cargo.
+
+## License
+
+This is just a few lines of code which wraps the [esbat](https://github.com/iliana/esbat) library. In an attempt to avoid trouble it has the same [Creative Commons Attribution-NonCommercial 4.0 International License][license]. Please refer to [that library](https://github.com/iliana/esbat) for details.
