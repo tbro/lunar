@@ -1,4 +1,6 @@
-# lunar cli
+# lunar
+
+![prompt](./lunar-starship.png "prompt")
 
 just build and run and you get a moon-phase emoji
 
@@ -10,6 +12,7 @@ I made it because I thought it might be fun to have a moon in my [starship promp
     description = "Display moon phase"
     command = "lunar"
     when = 'true'
+
 
 Of course you will the binary in your `$PATH` for that to work. Cargo makes that easy.
 
