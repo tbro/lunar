@@ -2,3 +2,4 @@
 description = "Display moon phase"
 command = "lunar"
 when = 'true'
+style = "white bold"
